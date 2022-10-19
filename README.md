@@ -11,14 +11,16 @@ Esta API incluye:
 
 ## Tecnologias
 
-| Librerias           | Instalacion                     |
-| ------------------- | ------------------------------- |
-| `passlib`           | `pip install "passlib[bcrypt]"` |
-| `pydantic[email]`   | `pip install "pydantic[email]"` |
-| `peewee`            | `pip install peewee`            |
-| `python-dotenv`     | `pip install python-dotenv`     |
-| `psycopg2`          | `pip install psycopg2`          |
-| `fastapi & uvicorn` | `pip install fastapi uvicorn`   |
+| Librerias                   | Instalacion                               |
+| --------------------------- | ----------------------------------------- |
+| `passlib`                   | `pip install "passlib[bcrypt]"`           |
+| `pydantic[email]`           | `pip install "pydantic[email]"`           |
+| `peewee`                    | `pip install peewee`                      |
+| `python-dotenv`             | `pip install python-dotenv`               |
+| `psycopg2`                  | `pip install psycopg2`                    |
+| `fastapi & uvicorn`         | `pip install fastapi uvicorn`             |
+| `python-jose[cryptography]` | `pip install "python-jose[cryptography]"` |
+| `python-multipart`          | `pip install python-multipart`            |
 
 ## Librerias
 
