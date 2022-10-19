@@ -4,7 +4,7 @@ Proyecto con fines de aprendizaje de un proyecto basico de una REST API utilizan
 
 Esta API incluye:
 
-- Autenticación (Login) [ ]
+- Autenticación con JWT (Login) [X]
 - Register (Create User) [X]
 - CRUD Todo [ ]
 - Conexion con Postgresql [X]
